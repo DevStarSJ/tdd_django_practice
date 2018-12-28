@@ -1,6 +1,6 @@
 ```shell
 brew install geckodriver
-pip install selenium
+pip install selenium django
 ```
 
 <http://chromedriver.chromium.org/downloads>
